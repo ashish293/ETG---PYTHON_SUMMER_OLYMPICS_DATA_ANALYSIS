@@ -20,8 +20,3 @@ This Assignment was given during "ELITE TECHNO GROUP INTERNSHIP".
 
 The raw data of Summer Olympics was given in CSV File.Using Data Analysis we had to analyze the data and Plot the Graph for given Questions.
 I used Pandas ,DataFrame and some inbuilt Functions like "groupby"  to solve these Questions.
-
-## Happy to share my 2nd Repository!!!
-## Hope you like it :-)
-## PALLAVI WANKHEDE.
-
